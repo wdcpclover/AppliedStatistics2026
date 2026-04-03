@@ -1,0 +1,51 @@
+Name,Age,Gender,Major,Midterm,Final,Homework,Weighted_Avg,Grade
+Student_01,24,M,CS,54.1,88.8,82.8,77.19,C
+Student_02,20,F,Statistics,66.6,65.1,84.6,69.45,D
+Student_03,19,M,Data Science,100.0,61.8,74.6,75.82,C
+Student_04,22,M,Data Science,68.0,87.6,90.4,82.28,B
+Student_05,21,M,Statistics,88.4,82.8,73.1,82.54,B
+Student_06,21,M,Mathematics,80.5,92.9,65.8,83.76,B
+Student_07,19,F,Statistics,73.2,75.2,91.4,77.84,C
+Student_08,21,M,Statistics,67.2,96.4,76.6,83.68,B
+Student_09,22,F,Mathematics,90.4,67.8,80.3,77.08,C
+Student_10,21,M,Statistics,72.9,56.1,95.4,69.0,D
+Student_11,23,M,CS,93.3,41.4,89.1,66.51,D
+Student_12,23,F,Data Science,66.4,55.5,85.1,64.69,D
+Student_13,23,F,CS,75.7,84.3,88.6,82.58,B
+Student_14,24,F,CS,80.6,50.0,74.2,64.02,D
+Student_15,23,F,CS,79.5,65.2,86.0,73.65,C
+Student_16,20,M,CS,60.2,100.0,88.9,85.84,B
+Student_17,24,F,Mathematics,67.0,84.7,86.0,79.65,C
+Student_18,22,M,Mathematics,72.6,98.9,78.4,86.91,B
+Student_19,19,M,Data Science,74.7,57.1,50.0,60.96,D
+Student_20,20,F,Statistics,83.1,35.1,84.5,59.38,F
+Student_21,19,F,Statistics,82.1,94.7,80.9,88.16,B
+Student_22,24,F,CS,51.5,50.7,77.0,56.2,F
+Student_23,23,F,CS,53.3,73.4,86.2,69.93,D
+Student_24,24,M,Mathematics,59.6,75.3,82.1,71.95,C
+Student_25,20,F,Mathematics,74.7,57.8,81.6,67.63,D
+Student_26,22,M,Statistics,99.4,95.3,68.1,91.09,A
+Student_27,22,M,Statistics,70.4,95.2,68.3,82.38,B
+Student_28,23,M,CS,78.0,80.3,83.0,80.15,B
+Student_29,19,M,Data Science,62.2,71.6,80.6,70.58,C
+Student_30,22,F,Statistics,62.4,74.9,81.1,72.39,C
+Student_31,22,M,Statistics,51.5,55.6,81.3,59.51,F
+Student_32,23,F,Mathematics,74.7,68.4,83.3,73.27,C
+Student_33,22,M,Statistics,86.4,70.4,80.3,77.18,C
+Student_34,21,M,Statistics,70.7,75.25,81.3,75.1,C
+Student_35,21,M,Data Science,91.8,84.7,82.0,86.29,B
+Student_36,21,M,Statistics,77.4,75.25,87.4,78.32,C
+Student_37,19,F,Data Science,74.6,65.2,75.9,70.16,C
+Student_38,20,F,Mathematics,81.2,38.2,86.3,60.72,D
+Student_39,19,F,Statistics,80.8,79.5,85.1,81.01,B
+Student_40,20,M,Data Science,88.8,83.1,80.8,84.35,B
+Student_41,24,M,Mathematics,65.4,81.3,76.2,75.51,C
+Student_42,22,F,Statistics,47.5,100.0,83.0,80.85,B
+Student_43,19,F,Statistics,76.4,86.1,86.9,83.35,B
+Student_44,21,M,Mathematics,67.7,57.9,71.4,63.54,D
+Student_45,20,M,Mathematics,74.7,100.0,80.5,88.51,B
+Student_46,22,F,Data Science,95.0,58.2,80.5,73.7,C
+Student_47,23,F,Data Science,61.8,83.8,74.7,75.38,C
+Student_48,19,F,Mathematics,84.2,83.1,75.0,81.81,B
+Student_49,21,F,CS,86.4,58.8,67.6,68.84,D
+Student_50,21,F,Mathematics,74.7,92.9,71.2,83.1,B
